@@ -12,6 +12,16 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        inter: ['Inter'],
+        geist: ['Geist'],
+        monteserrat: ['Montserrat'],
+        playfair: ['Playfair Display'],
+        poppins: ['Poppins'],
+        cabinate: ['Cabinet Grotesk'],
+
+      },
+      
     },
   },
   plugins: [],
